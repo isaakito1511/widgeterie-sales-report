@@ -56,7 +56,7 @@ Working backwards from December, the company needs 19,897 units already in stock
 
 ### 3. Keep SKU-9325: dropping it saves €150K but puts €262K of margin at risk
 
-![SKU-9325 discontinuation impact](images/chart_3_sku_9325.png)
+![SKU-9325 discontinuation impact](images/chart_3_retire_part.png)
 
 The company should keep SKU-9325. Discontinuing it would save €150,000 a year but put €262,039 of contribution margin at risk.
 
