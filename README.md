@@ -135,4 +135,5 @@ I'm developing my skills in data analytics through practical projects at Savila 
 
 I enjoy the challenge of connecting technical analysis with real business questions, checking assumptions and explaining what the numbers can—and cannot—tell us.
 
-**Contact:** [Your Name] · [LinkedIn URL] · [Portfolio URL]
+**Contact:** Mario Isaac Jiménez Gómez · www.linkedin.com/in/isaac-jimenez-gom
+
