@@ -10,7 +10,7 @@ Python (pandas, NumPy, matplotlib, GeoPandas) · 396,978 order lines from 60 Exc
 | [TECHNICAL_README.md](TECHNICAL_README.md) | Data sources, data quality issues, business inputs, assumptions and calculations |
 | [notebooks/widgeterie_decisions.ipynb](notebooks/widgeterie_decisions.ipynb) | The full Python analysis, from data preparation to the four business decisions |
 | [images/](images/) | Charts supporting the four decisions |
-| [data/](data/) | Information about the input data and its availability |
+| [data/](notebooks/) | Information about the input data and its availability |
 
 > **Executive summary**
 >
