@@ -131,9 +131,7 @@ The full preparation process, issue log, business inputs and calculation details
 
 ## About me
 
-I'm developing my skills in data analytics through practical projects at Savila Education. In this case, I worked with Python to transform messy data into structured information and business recommendations.
-
-I enjoy the challenge of connecting technical analysis with real business questions, checking assumptions and explaining what the numbers can—and cannot—tell us.
+I am a Business and International Relations professional with experience in Procurement, Supply Chain Operations, Executive Support, Supplier Management, and Data Analysis. My professional background combines hands-on operational experience with analytical thinking and a strong interest in process improvement.
 
 **Contact:** Mario Isaac Jiménez Gómez · www.linkedin.com/in/isaac-jimenez-gom
 
